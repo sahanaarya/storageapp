@@ -1,0 +1,29 @@
+/* Your custom styles */
+.logo {
+  height: 55px;
+  width: 55px;
+}
+
+body {
+  background-color: #558b2f
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+form {
+  color: white;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.md-form {
+  width: 350px;
+  margin: 0 auto;
+}
+
+.login-button{
+  margin: 30px auto;
+}
